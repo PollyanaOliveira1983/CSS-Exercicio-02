@@ -1,0 +1,108 @@
+
+
+body{
+    padding: 10px;
+    width: 1200px;
+    height: 1600px;
+    border: 10px outset black;
+    border-radius: 10px 10px 10px 10px;
+    background-image: linear-gradient(45deg, rgb(240, 195, 195), rgb(142, 240, 142) , rgb(129, 129, 223), rgb(247, 247, 72));
+}
+
+h1{
+    
+    text-align: center;  
+    border: 1px double black;
+    box-shadow: 2px 5px 2px 5px;
+    border-radius: 10px 10px 10px 10px;
+}
+h4{
+
+  text-align: center;  
+  border: 1px dashed black;
+
+}
+
+.estados{
+    
+    border: 2px solid rgb(51, 98, 4);
+    padding: 10px;
+    width: 202px;
+    height: 100px;
+    display: inline-block;
+    height: fit-content;
+      
+ 
+}
+
+.estadosdif{
+    
+    border: 3px dotted rgb(133, 39, 39);
+    padding: 10px;
+    width: 200px;
+    height: 100px;
+    display: inline-block;
+    height: fit-content;
+       
+ 
+}
+
+.estadosam{
+    
+    border: 3px inset rgb(211, 22, 138);
+    padding: 10px;
+    width: 200px;
+    height: 100px;
+    display: inline-block;
+    height: fit-content;
+       
+ 
+}
+.estadosbr{
+    
+    border: 3px ridge rgb(207, 154, 29);
+    padding: 10px;
+    width: 200px;
+    height: 100px;
+    display: inline-block;
+    height: fit-content;
+       
+ 
+}
+.estadospt{
+    
+    border: 3px groove rgb(5, 17, 180);
+    padding: 10px;
+    width: 200px;
+    height: 100px;
+    display: inline-block;
+    height: fit-content;
+       
+ 
+}
+
+.estadosen{
+    
+    border: 3px double rgb(216, 22, 158);
+    padding: 10px;
+    width: 200px;
+    height: 100px;
+    display: inline-block;
+    height: fit-content;
+       
+ 
+}
+
+p{
+    
+    text-align: center;
+    font-size: 15px;
+    font-style:oblique;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
+}
+
+img {
+    float: left;
+    
+}
